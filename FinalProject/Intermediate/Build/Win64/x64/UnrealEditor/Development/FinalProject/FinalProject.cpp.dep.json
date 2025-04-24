@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\knc23\\documents\\github\\cit365-final-project\\finalproject\\source\\finalproject\\finalproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\knc23\\documents\\github\\cit365-final-project\\finalproject\\intermediate\\build\\win64\\x64\\finalprojecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\knc23\\documents\\github\\cit365-final-project\\finalproject\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\finalproject\\definitions.finalproject.h",
+            "c:\\users\\knc23\\documents\\github\\cit365-final-project\\finalproject\\source\\finalproject\\finalproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

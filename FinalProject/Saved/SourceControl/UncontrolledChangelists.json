@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/SoccerBlendSpace1D.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/ABP_Soccer.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Breathing_Idle.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Breathing_Idle_Anim.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Breathing_Idle_PhysicsAsset.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1001_Diffuse.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1001_Glossiness.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1001_Normal.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1001_Specular.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1002_Diffuse.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_1002_Normal.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_body.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Ch38_hair.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/NewCharacter.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/NewCharacter_Anim.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/NewCharacter_PhysicsAsset.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/NewCharacter_Skeleton.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Running.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Running_Anim.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Running_PhysicsAsset.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Walking.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Walking_Anim.uasset",
+				"C:/Users/knc23/Documents/GitHub/CIT365-Final-Project/FinalProject/Content/Characters/NewCharacter/Walking_PhysicsAsset.uasset"
+			]
+		}
+	]
+}
